@@ -27,3 +27,4 @@ def Interface(func_get, func_parse) -> None:
                 break
             case _:
                 print("[INVALID CHOISE]")
+                input()
